@@ -1,0 +1,2 @@
+data/mynetwork.gpkg !text !filter !merge !diff
+* !text !filter !merge !diff
