@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<csw:GetRecordsResponse xmlns:csw="http://www.opengis.net/cat/csw/2.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/cat/csw/2.0.2 http://schemas.opengis.net/csw/2.0.2/CSW-discovery.xsd">
+  <csw:SearchStatus timestamp="2021-03-30T10:57:29"/>
+  <csw:SearchResults numberOfRecordsMatched="1" numberOfRecordsReturned="1" elementSet="full" nextRecord="0">
+    <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20060504/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+      <gmd:fileIdentifier>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">fa505762-4d34-4c73-a1c4-a99b93f98516</gco:CharacterString>
+      </gmd:fileIdentifier>
+      <gmd:language>
+        <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+      </gmd:language>
+      <gmd:characterSet>
+        <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+      </gmd:characterSet>
+      <gmd:hierarchyLevel>
+        <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+      </gmd:hierarchyLevel>
+      <gmd:hierarchyLevelName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">stadt_wuppertal</gco:CharacterString>
+      </gmd:hierarchyLevelName>
+      <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+          <gmd:individualName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Tanja Verstege</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Stadt Wuppertal</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ressort 102 Vermessung, Katasteramt und Geodaten</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+49-202-563-7287</gco:CharacterString>
+                  </gmd:voice>
+                  <gmd:facsimile>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+49-202-563-8044</gco:CharacterString>
+                  </gmd:facsimile>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Johannes-Rau-Platz 1</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wuppertal</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nordrhein-Westfalen</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">42275</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:country>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Deutschland</gco:CharacterString>
+                  </gmd:country>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">tanja.verstege@stadt.wuppertal.de</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </gmd:contact>
+      <gmd:dateStamp>
+        <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2020-12-30</gco:Date>
+      </gmd:dateStamp>
+      <gmd:metadataStandardName>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115</gco:CharacterString>
+      </gmd:metadataStandardName>
+      <gmd:metadataStandardVersion>
+        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2005-05</gco:CharacterString>
+      </gmd:metadataStandardVersion>
+      <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+          <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+              <gmd:code>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">25832</gco:CharacterString>
+              </gmd:code>
+              <gmd:codeSpace>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn:ogc:def:crs:EPSG</gco:CharacterString>
+              </gmd:codeSpace>
+              <gmd:version>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">6.11.2</gco:CharacterString>
+              </gmd:version>
+            </gmd:RS_Identifier>
+          </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+      </gmd:referenceSystemInfo>
+      <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+          <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+              <gmd:code>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">3857</gco:CharacterString>
+              </gmd:code>
+              <gmd:codeSpace>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn:ogc:def:crs:EPSG</gco:CharacterString>
+              </gmd:codeSpace>
+              <gmd:version>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">6.11.2</gco:CharacterString>
+              </gmd:version>
+            </gmd:RS_Identifier>
+          </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+      </gmd:referenceSystemInfo>
+      <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+          <gmd:referenceSystemIdentifier>
+            <gmd:RS_Identifier>
+              <gmd:code>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">4326</gco:CharacterString>
+              </gmd:code>
+              <gmd:codeSpace>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn:ogc:def:crs:EPSG</gco:CharacterString>
+              </gmd:codeSpace>
+              <gmd:version>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">6.11.2</gco:CharacterString>
+              </gmd:version>
+            </gmd:RS_Identifier>
+          </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+      </gmd:referenceSystemInfo>
+      <gmd:identificationInfo xmlns:gco="http://www.isotc211.org/2005/gco">
+        <gmd:MD_DataIdentification>
+          <gmd:citation>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Markante Bauwerke an Wuppertaler Radwanderwegen</gco:CharacterString>
+              </gmd:title>
+              <gmd:alternateTitle>
+                <gco:CharacterString>Markante Bauwerke an kommunalen Radwanderwegen in der Stadt Wuppertal</gco:CharacterString>
+              </gmd:alternateTitle>
+              <gmd:date>
+                <gmd:CI_Date>
+                  <gmd:date>
+                    <gco:Date>2015-06-01</gco:Date>
+                  </gmd:date>
+                  <gmd:dateType>
+                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                  </gmd:dateType>
+                </gmd:CI_Date>
+              </gmd:date>
+              <gmd:identifier>
+                <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString>https://registry.gdi-de.org/id/de.nw/WUP-GUID_a3e44935-8a3a-43c2-a88f-2631c94202b1</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+              </gmd:identifier>
+              <gmd:presentationForm>
+                <CI_PresentationFormCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115"/>
+              </gmd:presentationForm>
+            </gmd:CI_Citation>
+          </gmd:citation>
+          <gmd:abstract>
+            <gco:CharacterString>Der Datensatz umfasst die (Stand 12/2020) 15 markanten Bauwerke entlang des Verlaufs von kommunalen Radwanderwegen der Stadt Wuppertal. Dabei handelt es sich ausschließlich um Brücken und Tunnel, über bzw. durch die die Radwanderwege geführt werden. Der weit überwiegende Teil der markanten Bauwerke betrifft die Sambatrasse und die Nordbahntrasse, zwei auf ehemaligen Bahntrassen angelegte Radwege mit hohem Freizeit- und Erlebniswert. Die Bauwerke werden geometrisch durch denjenigen linienförmigen Abschnitt des zugehörigen Radwanderweges repräsentiert, der über bzw. durch das Bauwerk verläuft. Der Datensatz ist daher als Ergänzung des Datensatzes "Radrouten Wuppertal" zu verstehen, in dem die vollständigen Radwanderwege, repräsentiert durch die Mittelachsen der zugehörigen Straßen und Wege, nachgewiesen sind. Der Datensatz wurde erstmalig im Frühjahr 2015 fertiggestellt und wird seitdem bei Änderungen im Bereich der markanten Bauwerke zeitnah fortgeführt. Die als Open Data unter der Lizenz CC BY 4.0 bereitgestellten ESRI-Shapefiles, KML- und GeoJSON-Dateien werden in einem automatisierten Prozess wöchentlich aktualisiert.</gco:CharacterString>
+          </gmd:abstract>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Tanja Verstege</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>Stadt Wuppertal</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>Ressort 102 Vermessung, Katasteramt und Geodaten</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+49-202-563-7287</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString>+49-202-563-8044</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Johannes-Rau-Platz 1</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Wuppertal</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>Nordrhein-Westfalen</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>42275</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Deutschland</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>tanja.verstege@stadt.wuppertal.de</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:pointOfContact>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Kurt Meisen</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>Stadt Wuppertal</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>Ressort 102 Vermessung, Katasteramt und Geodaten</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+49-202-563-5226</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString>+49-202-563-5969</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Johannes-Rau-Platz 1</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Wuppertal</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>Nordrhein-Westfalen</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>42275</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Deutschland</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>kurt.meisen@stadt.wuppertal.de</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor">processor</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:pointOfContact>
+          <gmd:resourceMaintenance>
+            <gmd:MD_MaintenanceInformation>
+              <gmd:maintenanceAndUpdateFrequency>
+                <MD_MaintenanceFrequencyCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+              </gmd:maintenanceAndUpdateFrequency>
+              <gmd:maintenanceNote>
+                <gco:CharacterString>Der Datenbestand der markanten Bauwerke an Wuppertaler Radwanderwegen unterliegt seltenen Änderungen, die vom Ressort "Straßen und Verkehr" veranlasst oder dort zumindest bekannt werden. Das Ressort Straßen und Verkehr teilt diese Änderungen dem datenführenden Ressort "Vermessung, Katasteramt und Geodaten" zeitnah mit, wo der Datensatz mit einem Geoinformationssystem aktualisiert wird. Die als Open Data bereitgestellten ESRI-Shapefiles, KML- und GeoJSON-Dateien werden in einem automatisierten Prozess wöchentlich aktualisiert.</gco:CharacterString>
+              </gmd:maintenanceNote>
+            </gmd:MD_MaintenanceInformation>
+          </gmd:resourceMaintenance>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>Wuppertal</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place"/>
+              </gmd:type>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>Räumliche Mobilität</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Zweirad</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Radweg</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Verkehrsinfrastruktur</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Brücke</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Bauwerk</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString>GEMET - Concepts, version 3.1</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date>2012-07-20</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>Radverkehrsnetz</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Radverkehr</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Radwanderweg</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Radroute</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Nordbahntrasse</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Sambatrasse</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tigerbrücke Zoo</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Blombachtalbrücke</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Dorp</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Dorrenberg</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Engelnberg</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Legobrücke Schwesterstraße</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Rott</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Viadukt Steinweg</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Viadukt Westkotter Straße</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Fatloh</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Viadukt Bartholomäusstraße</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Viadukt Wichlinghauser Straße</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Brücke Bracken</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:keyword>
+                <gco:CharacterString>Tunnel Schee</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="discipline"/>
+              </gmd:type>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>GDI-W</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+              </gmd:type>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>opendata</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:type>
+                <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+              </gmd:type>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>geo</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString>OGDD-Kategorien</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date>2012-12-10</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>infrastruktur_bauen_wohnen</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString>OGDD-Kategorien</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date>2012-12-10</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>kultur_freizeit_sport_tourismus</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString>OGDD-Kategorien</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date>2012-12-10</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:descriptiveKeywords>
+            <gmd:MD_Keywords>
+              <gmd:keyword>
+                <gco:CharacterString>transport_verkehr</gco:CharacterString>
+              </gmd:keyword>
+              <gmd:thesaurusName>
+                <gmd:CI_Citation>
+                  <gmd:title>
+                    <gco:CharacterString>OGDD-Kategorien</gco:CharacterString>
+                  </gmd:title>
+                  <gmd:date>
+                    <gmd:CI_Date>
+                      <gmd:date>
+                        <gco:Date>2012-12-10</gco:Date>
+                      </gmd:date>
+                      <gmd:dateType>
+                        <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                      </gmd:dateType>
+                    </gmd:CI_Date>
+                  </gmd:date>
+                </gmd:CI_Citation>
+              </gmd:thesaurusName>
+            </gmd:MD_Keywords>
+          </gmd:descriptiveKeywords>
+          <gmd:resourceConstraints>
+            <gmd:MD_SecurityConstraints>
+              <gmd:classification>
+                <MD_ClassificationCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified"/>
+              </gmd:classification>
+            </gmd:MD_SecurityConstraints>
+          </gmd:resourceConstraints>
+          <gmd:resourceConstraints xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:MD_LegalConstraints>
+              <gmd:useLimitation>
+                <gco:CharacterString>Nutzungseinschränkungen: Datensatz ist kein amtlicher Nachweis; alle Angaben nach bestem Wissen, jedoch ohne Gewähr für Vollständigkeit und Richtigkeit. Die eigentlich flächenhaften markanten Bauwerke werden in diesem Datensatz in vereinfachter Weise durch den linienförmigen Abschnitt des zugehörigen Radwanderweges repräsentiert, der über bzw. durch das Bauwerk verläuft.</gco:CharacterString>
+              </gmd:useLimitation>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:resourceConstraints xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:MD_LegalConstraints>
+              <gmd:useLimitation>
+                <gco:CharacterString>Nutzungsbedingungen: Dieser Datensatz kann gemäß der „Creative Commons Namensnennung (CC BY 4.0)“ (http://creativecommons.org/licenses/by/4.0/) genutzt werden.</gco:CharacterString>
+              </gmd:useLimitation>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:resourceConstraints xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:MD_LegalConstraints>
+              <gmd:useConstraints>
+                <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115"/>
+              </gmd:useConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:resourceConstraints xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <gmd:MD_LegalConstraints>
+              <gmd:useConstraints>
+                <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115"/>
+              </gmd:useConstraints>
+              <gmd:otherConstraints>
+                <gmx:Anchor xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode.de">Nutzungsbedingungen: Dieser Datensatz kann gemäß der „Creative Commons Namensnennung (CC BY 4.0)“ (http://creativecommons.org/licenses/by/4.0/) genutzt werden.</gmx:Anchor>
+              </gmd:otherConstraints>
+              <gmd:otherConstraints>
+                <gmx:Anchor xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode.de">{"id": "cc-by/4.0","name": "Creative Commons Namensnennung – 4.0 International (CC BY 4.0)","url": "http://creativecommons.org/licenses/by/4.0/","quelle": "Datenquelle: CC-BY-4.0 - Stadt Wuppertal - offenedaten-wuppertal.de"}</gmx:Anchor>
+              </gmd:otherConstraints>
+            </gmd:MD_LegalConstraints>
+          </gmd:resourceConstraints>
+          <gmd:spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+          </gmd:spatialRepresentationType>
+          <gmd:spatialResolution>
+            <gmd:MD_Resolution>
+              <gmd:distance>
+                <gco:Distance uom="m">5</gco:Distance>
+              </gmd:distance>
+            </gmd:MD_Resolution>
+          </gmd:spatialResolution>
+          <gmd:language>
+            <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+          </gmd:language>
+          <gmd:characterSet>
+            <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+          </gmd:characterSet>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <gmd:topicCategory>
+            <gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+          </gmd:topicCategory>
+          <extent xmlns="http://www.isotc211.org/2005/gmd">
+            <gmd:EX_Extent>
+              <gmd:geographicElement>
+                <gmd:EX_GeographicBoundingBox>
+                  <gmd:extentTypeCode>
+                    <gco:Boolean>true</gco:Boolean>
+                  </gmd:extentTypeCode>
+                  <gmd:westBoundLongitude>
+                    <gco:Decimal>7.01</gco:Decimal>
+                  </gmd:westBoundLongitude>
+                  <gmd:eastBoundLongitude>
+                    <gco:Decimal>7.32</gco:Decimal>
+                  </gmd:eastBoundLongitude>
+                  <gmd:southBoundLatitude>
+                    <gco:Decimal>51.16</gco:Decimal>
+                  </gmd:southBoundLatitude>
+                  <gmd:northBoundLatitude>
+                    <gco:Decimal>51.33</gco:Decimal>
+                  </gmd:northBoundLatitude>
+                </gmd:EX_GeographicBoundingBox>
+              </gmd:geographicElement>
+            </gmd:EX_Extent>
+          </extent>
+          <gmd:extent>
+            <gmd:EX_Extent>
+              <gmd:geographicElement>
+                <gmd:EX_GeographicDescription>
+                  <gmd:geographicIdentifier>
+                    <gmd:RS_Identifier>
+                      <gmd:code>
+                        <gco:CharacterString>05124000</gco:CharacterString>
+                      </gmd:code>
+                      <gmd:codeSpace>
+                        <gco:CharacterString>Amtlicher Gemeindeschlüssel (AGS)</gco:CharacterString>
+                      </gmd:codeSpace>
+                      <gmd:version>
+                        <gco:CharacterString/>
+                      </gmd:version>
+                    </gmd:RS_Identifier>
+                  </gmd:geographicIdentifier>
+                </gmd:EX_GeographicDescription>
+              </gmd:geographicElement>
+            </gmd:EX_Extent>
+          </gmd:extent>
+        </gmd:MD_DataIdentification>
+      </gmd:identificationInfo>
+      <gmd:distributionInfo xmlns:gco="http://www.isotc211.org/2005/gco">
+        <gmd:MD_Distribution>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString>Shape</gco:CharacterString>
+              </gmd:name>
+              <gmd:version>
+                <gco:CharacterString>nicht definiert</gco:CharacterString>
+              </gmd:version>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString>KML</gco:CharacterString>
+              </gmd:name>
+              <gmd:version>
+                <gco:CharacterString>http://schemas.opengis.net/kml/</gco:CharacterString>
+              </gmd:version>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributionFormat>
+            <gmd:MD_Format>
+              <gmd:name>
+                <gco:CharacterString>GeoJSON</gco:CharacterString>
+              </gmd:name>
+              <gmd:version>
+                <gco:CharacterString>RFC 7946</gco:CharacterString>
+              </gmd:version>
+            </gmd:MD_Format>
+          </gmd:distributionFormat>
+          <gmd:distributor>
+            <gmd:MD_Distributor>
+              <gmd:distributorContact>
+                <gmd:CI_ResponsibleParty>
+                  <gmd:individualName>
+                    <gco:CharacterString>Geodatenzentrum</gco:CharacterString>
+                  </gmd:individualName>
+                  <gmd:organisationName>
+                    <gco:CharacterString>Stadt Wuppertal</gco:CharacterString>
+                  </gmd:organisationName>
+                  <gmd:positionName>
+                    <gco:CharacterString>Ressort 102 Vermessung, Katasteramt und Geodaten</gco:CharacterString>
+                  </gmd:positionName>
+                  <gmd:contactInfo>
+                    <gmd:CI_Contact>
+                      <gmd:phone>
+                        <gmd:CI_Telephone>
+                          <gmd:voice>
+                            <gco:CharacterString>+49-202-563-5399</gco:CharacterString>
+                          </gmd:voice>
+                          <gmd:facsimile>
+                            <gco:CharacterString>+49-202-563-8044</gco:CharacterString>
+                          </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                      </gmd:phone>
+                      <gmd:address>
+                        <gmd:CI_Address>
+                          <gmd:deliveryPoint>
+                            <gco:CharacterString>Johannes-Rau-Platz 1</gco:CharacterString>
+                          </gmd:deliveryPoint>
+                          <gmd:city>
+                            <gco:CharacterString>Wuppertal</gco:CharacterString>
+                          </gmd:city>
+                          <gmd:administrativeArea>
+                            <gco:CharacterString>Nordrhein-Westfalen</gco:CharacterString>
+                          </gmd:administrativeArea>
+                          <gmd:postalCode>
+                            <gco:CharacterString>42275</gco:CharacterString>
+                          </gmd:postalCode>
+                          <gmd:country>
+                            <gco:CharacterString>Deutschland</gco:CharacterString>
+                          </gmd:country>
+                          <gmd:electronicMailAddress>
+                            <gco:CharacterString>geodatenzentrum@stadt.wuppertal.de</gco:CharacterString>
+                          </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                      </gmd:address>
+                    </gmd:CI_Contact>
+                  </gmd:contactInfo>
+                  <gmd:role>
+                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                  </gmd:role>
+                </gmd:CI_ResponsibleParty>
+              </gmd:distributorContact>
+            </gmd:MD_Distributor>
+          </gmd:distributor>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://geoportal.wuppertal.de/deegree/invoke.jsp?wmc=wmc_RADROUTEN</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://daten.wuppertal.de/Transport_Verkehr/Radwege-Bauwerke_EPSG25832_SHAPE.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://daten.wuppertal.de/Transport_Verkehr/Radwege-Bauwerke_EPSG3857_SHAPE.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://daten.wuppertal.de/Transport_Verkehr/Radwege-Bauwerke_EPSG4326_KML.zip</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://daten.wuppertal.de/Transport_Verkehr/Radwege-Bauwerke_EPSG25832_JSON.json</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://daten.wuppertal.de/Transport_Verkehr/Radwege-Bauwerke_EPSG4326_JSON.json</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+          <gmd:transferOptions>
+            <gmd:MD_DigitalTransferOptions>
+              <gmd:onLine>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>http://geoportal.wuppertal.de:80/deegree/wms?SERVICE=WMS&amp;REQUEST=GetCapabilities&amp;VERSION=1.1.1&amp;</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:function>
+                    <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onLine>
+            </gmd:MD_DigitalTransferOptions>
+          </gmd:transferOptions>
+        </gmd:MD_Distribution>
+      </gmd:distributionInfo>
+      <gmd:dataQualityInfo>
+        <gmd:DQ_DataQuality>
+          <gmd:scope>
+            <gmd:DQ_Scope>
+              <gmd:level>
+                <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+              </gmd:level>
+              <gmd:levelDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+            </gmd:DQ_Scope>
+          </gmd:scope>
+          <gmd:lineage>
+            <gmd:LI_Lineage>
+              <gmd:statement>
+                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Der Datensatz der markanten Bauwerke an Wuppertaler Radwanderwegen wurde erstmalig im Frühjahr 2015 erstellt. Er basiert auf dem Datensatz "Radrouten Wuppertal", in dem die vollständigen Radwanderwege, repräsentiert durch die Mittelachsen der zugehörigen Straßen und Wege, nachgewiesen sind. Aus diesem Datenbestand wurden die Radweg-Abschnitte herausgezogen, die über bzw. durch die markanten Brücken und Tunnel verlaufen. Der Datensatz ist daher als Ergänzung des Datensatzes "Radrouten Wuppertal" zu verstehen. Er erbt dessen Genauigkeit und geometrische Eigenschaften. Die als Open Data bereitgestellten ESRI-Shapefiles, KML- und GeoJSON-Dateien werden in einem automatisierten Prozess wöchentlich aktualisiert.</gco:CharacterString>
+              </gmd:statement>
+            </gmd:LI_Lineage>
+          </gmd:lineage>
+        </gmd:DQ_DataQuality>
+      </gmd:dataQualityInfo>
+    </gmd:MD_Metadata>
+  </csw:SearchResults>
+</csw:GetRecordsResponse>
