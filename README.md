@@ -1,7 +1,7 @@
 # GIS-Box: Data Factory
 cloned from Example Profile for RWTH Jupyter Hub cluster
 
-![gisbox.png](./img/rheinisches-revier-neu.png)
+![gisbox.jpg](./img/rheinisches-revier-neu.jpg)
 
 ## Introduction
 
