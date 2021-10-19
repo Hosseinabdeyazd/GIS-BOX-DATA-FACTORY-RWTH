@@ -1,4 +1,4 @@
-Bauwerks-Nr.:;Bauwerksname:;Ort:;Teilbauwerks-Nr.:;Teilbauwerksname:;Bauwersart:;Bauwerkskonstruktion:;Baujahr:;Fäche:               [m²];Anderes Bauwerk nach DIN 1076:
+Bauwerks-Nr.:;Bauwerksname:;Ort;Teilbauwerks-Nr.:;Teilbauwerksname:;Bauwersart;Bauwerkskonstruktion:;Baujahr:;Fäche:               [m²];Anderes Bauwerk nach DIN 1076:
 A001;Akerweg;Vetschau;;Brücke;Bogenartige Brücke / Gewölbebrücke;Einfeld-2-Gelenk-Bogenbrücke;1905;82;Nein
 A002;Bocholtzer Straße;Vetschau;;Brücke;Bogenartige Brücke / Gewölbebrücke;Einfeld-2-Gelenk-Bogenbrücke;1903;82;Nein
 A003;Burtscheider Straße;Burtscheid;A;Hauptbrücke;Bogenbrücke mit abgehängter Fahrbahn;Zweigelenkbogen mit Zugband;1952;782;Nein
