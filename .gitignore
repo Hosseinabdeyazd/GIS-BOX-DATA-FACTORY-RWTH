@@ -1,0 +1,7 @@
+/cache
+/.cache
+/.local
+/.jupyter
+/.ipython
+/mynetwork*
+.ipynb_checkpoints
