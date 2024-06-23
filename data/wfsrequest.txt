@@ -1,1 +1,0 @@
-http://www.geodaten1.aachen.de:80/opendata/denkmal/ows?&service=WFS&request=getfeature&typename=denkmalbereiche&outputformat=shape-zip
