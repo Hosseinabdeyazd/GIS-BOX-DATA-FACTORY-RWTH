@@ -1,7 +1,3 @@
-/cache
-/.cache
-/.local
-/.jupyter
-/.ipython
-/mynetwork*
-.ipynb_checkpoints
+*
+!.gitignore
+!XX_NEU-exercise.ipynb
